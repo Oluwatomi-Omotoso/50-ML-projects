@@ -3,7 +3,7 @@
 
 Welcome to my Machine Learning Projects repository!
 
-This repo documents my personal challenge to **build 50 machine learning projects before the year ends**.  
+This repo documents my personal challenge to **build 50 machine learning projects before the year ends(2026)**.  
 It’s my way of mastering ML through consistency, exploration, and real-world practice.
 
 ---
